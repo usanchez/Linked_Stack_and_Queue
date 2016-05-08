@@ -1,5 +1,7 @@
 /**
-Program for creating the queue using the linked list. Program performs all the operations such as push, pop and display. It takes care of queue underflow condition. There can not be queue full condition in queue using linked list. 
+Program for creating the queue using the linked list.
+Program performs all the operations such as push, pop and display.
+It takes care of queue underflow condition.
 **/
 
 #include <iostream>
