@@ -1,5 +1,7 @@
 /**
-Program for creating the stack using the linked list. Program performs all the operations such as push, pop and display. It takes care of stack underflow condition. There can not be stack full condition in stack using linked list. 
+Program for creating the stack using the linked list.
+Program performs all the operations such as push, pop and display.
+It takes care of stack underflow condition.
 **/
 
 #include <iostream>
